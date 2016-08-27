@@ -1,5 +1,8 @@
+<body {
+	background-image: url("monies.png");
+}
+}
 p {
 	font-size: 30pt;
 	color: green;
-	background-image: url("monies.png");
 	}
